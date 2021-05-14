@@ -54,7 +54,7 @@ Después limpialo y dale la forma que necesites para contar tu historia. Piensa 
 Ayúdate de otras fuentes de datos para tener aún más información, cuantos más datos... ¡¡mejor!!
 Aplica todas las funciones que necesites para ello.
 Saca los gráficos más molones y mejor explicados de la historia.
-Parametriza las funciones para que al llamarlas muestren diferentes gráficos o tablas o los datos que consideres, y que se pueda utilizar esa misma función para mostrar diferentes cosas en función de los parámetros que le pongas al llamarlas.
+
 
 ## Links y recursos
 
