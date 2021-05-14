@@ -1,4 +1,4 @@
-
+![portaada](https://github.com/Ironhack-Data-Madrid-Febrero-2021/Hey-I-am-a-data-analyst./blob/main/images/portadaw3.jpg)
 # W3 - ¡Soy analista de datos!
 Eres el nuevo analista de datos de tu empresa, acabas de incorporarte y te han encargado un marrón del que no puedes escapar.
 Hay una reunión urgente el próximo martes con un comprador súper interesado en tu producto/servicio.
