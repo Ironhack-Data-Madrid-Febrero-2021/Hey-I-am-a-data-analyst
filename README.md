@@ -11,9 +11,9 @@ Los objetivos de este proyecto son poner en práctica todo lo que has aprendido 
 ### Requisitos
 Obligatoriedad de los requisitos:
 
-✅ = Obligatorio
-🚀 = Opcional (pero recomendable)
-🔥 = Bonus
+✅ = Obligatorio     
+🚀 = Opcional (pero recomendable)     
+🔥 = Bonus     
 
 - Jupyters notebook:
     - Limpieza de los datos: Tendrás un jupyter notebook donde limpies el dataset que te has descargado. ✅
