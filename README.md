@@ -41,7 +41,7 @@ Obligatoriedad de los requisitos:
     - Lambda, por lo menos una función lambda en el proyecto. ✅
     - Apply, aplicar una función al menos al dataset mediante un .apply ✅
 
-- Base de datos:
+- Base de datos (elige una)
     - Guarda tus datos en una base de datos de SQL.🔥
     - Guarda tus datos en una base de datos de MongoDB.🔥
 
