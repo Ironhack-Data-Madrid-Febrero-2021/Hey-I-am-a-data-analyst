@@ -1,4 +1,4 @@
-![portaada](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fa%2Fa4%2FPenAir_Flight_3296%25EF%25BC%2588N686PA%25EF%25BC%2589_after_crash_landing.jpg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAviation_accidents_and_incidents&tbnid=ysIly1l607JkwM&vet=12ahUKEwi0vduNgt3wAhUBaBoKHXCoC3IQMygBegUIARC2AQ..i&docid=0A4IlsQmiqqXFM&w=888&h=611&itg=1&q=plane%20crash&client=safari&ved=2ahUKEwi0vduNgt3wAhUBaBoKHXCoC3IQMygBegUIARC2AQ)
+![portada](images.jpg)
 # W3 - ¡Soy analista de datos!
 Eres el nuevo analista de datos de tu empresa, acabas de incorporarte y te han encargado un marrón del que no puedes escapar.
 Hay una reunión urgente el próximo martes con un comprador súper interesado en tu producto/servicio.
