@@ -1,4 +1,4 @@
-![portaada](https://github.com/Ironhack-Data-Madrid-Febrero-2021/Hey-I-am-a-data-analyst./blob/main/images/portadaw3.jpg)
+![portaada](https://www.google.com/imgres?imgurl=https%3A%2F%2Fim-media.voltron.voanews.com%2FDrupal%2F01live-166%2Fstyles%2Fsourced%2Fs3%2Fafp-image%2F2020%2F08%2F5b32fa2405a19b1aaf3b654d3712fda90a79e949.jpg%3Fitok%3DbCE4BqRo&imgrefurl=https%3A%2F%2Fwww.voanews.com%2Fsouth-central-asia%2Fplane-crash-kills-18-southern-india&tbnid=DO-mQ7qj9frk9M&vet=12ahUKEwi0vduNgt3wAhUBaBoKHXCoC3IQMygAegUIARC0AQ..i&docid=TkPdJkAeLyn9UM&w=5000&h=3333&q=plane%20crash&client=safari&ved=2ahUKEwi0vduNgt3wAhUBaBoKHXCoC3IQMygAegUIARC0AQ)
 # W3 - ¡Soy analista de datos!
 Eres el nuevo analista de datos de tu empresa, acabas de incorporarte y te han encargado un marrón del que no puedes escapar.
 Hay una reunión urgente el próximo martes con un comprador súper interesado en tu producto/servicio.
