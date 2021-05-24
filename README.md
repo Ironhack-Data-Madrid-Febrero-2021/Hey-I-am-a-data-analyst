@@ -19,19 +19,15 @@ Through the application we offer The Company the possibility of being positioned
 
 We have used the [Netflix Movies and TV Shows dataset](https://www.kaggle.com/shivamb/netflix-shows) from *Kaggle*
 We have webscraping [IMDb Top Rated Movies](https://www.imdb.com/chart/top)
+
 We have worked with different files:
-- Netflix.csv
-- Cleaning_Netflix.ipynb
-- WebScraping.ipynb
-- IMDb.csv
-- Dashboard.ipynb
-
-
-### Procedure
-- Translate
-- Webscraping
-
+- *Cleaning_Netflix.ipynb*: Approach to the Netflix films - Cleaning and Analysis
+- *WebScraping.ipynb*: Web Scraping from IMDb Top Rated films - Translating results given
+- *Dashboard.ipynb*: Graphs and conclusions
 
 
 ## Conclusions
-We offer to The Client a list of films they can offer in their new content platform
+- Since 2013 Netflix is offering TV Shows, gaining relevance in their platform yearly 
+- Almost 33% Netflix films are American
+- Mostly Netflix films are categorized as Drama, International movies and Comedies
+- We offer to The Client a list of films they can offer in their new content platform
