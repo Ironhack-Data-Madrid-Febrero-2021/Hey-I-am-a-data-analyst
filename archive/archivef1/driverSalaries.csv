@@ -1,0 +1,21 @@
+Number,Driver,Team,Salary,Expiry date,Salary_2
+1,Lewis Hamilton,Mercedes,$30m,2021,30000000
+2,Max Verstappen,Red Bull,$25m,2023,25000000
+3,Fernando Alonso,Alpine,$20m,2022,20000000
+4,Sebastian Vettel,Aston Martin,$15m,2021,15000000
+5,Daniel Ricciardo,McLaren,$15m,2022,15000000
+6,Charles Leclerc,Ferrari,$12m,2024,12000000
+7,Valtteri Bottas,Mercedes,$10m,2021,10000000
+8,Carlos Sainz,Ferrari,$10m,2022,10000000
+9,Lance Stroll,Aston Martin,$10m,Open,10000000
+10,Kimi Raikkonen,Alfa Romeo,$10m,2021,10000000
+11,Sergio Perez,Red Bull,$8m,2021,8000000
+12,Lando Norris,McLaren,$5m,2021,5000000
+13,Esteban Ocon,Alpine,$5m,2021,5000000
+14,Pierre Gasly,AlphaTauri,$5m,2021,5000000
+15,Antonio Giovinazzi,Alfa Romeo,$1m,2021,1000000
+16,Mick Schumacher,Haas,$1m,2021,1000000
+17,Nikita Mazepin,Haas,$1m,2021,1000000
+18,Nicholas Latifi,Williams,$1m,2021,1000000
+19,George Russell,Williams,$1m,2021,1000000
+20,Yuki Tsunoda,AlphaTauri,$500k,2021,500000
